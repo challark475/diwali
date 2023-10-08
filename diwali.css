@@ -1,0 +1,38 @@
+.selection{
+    background-image:url('https://d1tgh8fmlzexmh.cloudfront.net/ccbp-static-website/diwali-bg.png');
+    background-size: cover;
+    background-repeat: no-repeat;
+    height:50vh;
+    width:100wh;
+    margin-left:0px;
+
+}
+.colour{
+    color:white;
+    position:relative;
+    top:90px;
+    left:80px;
+    padding:15px;
+    font-size:30px;
+    font-style:coveat;
+}
+.card1{
+    
+
+    background-color:white;
+    padding-left:20px;
+    padding-right:20px;
+    padding-top:20px;
+    text-align:center;
+    margin:20px;
+    height:150px;
+    width:170px;
+    border-radius:12px;
+
+}
+.button2{
+    background-color:blue;
+    color:white;
+    border-radius:8px;
+    margin-left:630px;
+}
